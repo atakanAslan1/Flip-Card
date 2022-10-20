@@ -1,2 +1,2 @@
 # Flip-Card
-![](blob/main/screenshot.png)
+![](/screenshot.png)
